@@ -10,4 +10,4 @@ const canvasElement = getE('#canvas') as HTMLCanvasElement;
 confetti.create(canvasElement, {
   resize: true,
   useWorker: true,
- })({ particleCount: 200, spread: 200 });
+})({ particleCount: 200, spread: 200 });
