@@ -7,8 +7,9 @@ module.exports = {
   //   target: 'es2018',
   // },
   plugins: [
-    [ '@snowpack/plugin-sass', {}],
+    [ '@snowpack/plugin-sass'],
     // webpack 中~大規模
-    [ '@snowpack/plugin-webpack', {}]
+    [ '@snowpack/plugin-webpack'],
+    ['@snowpack/plugin-typescript']
   ],
 };

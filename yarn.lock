@@ -898,6 +898,14 @@
     npm-run-path "^4.0.1"
     sass "^1.3.0"
 
+"@snowpack/plugin-typescript@^1.2.1":
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/@snowpack/plugin-typescript/-/plugin-typescript-1.2.1.tgz#7170b039d16d41963cc61a714fe7c37f3fdd9d51"
+  integrity sha512-wU+JNaMVkqGsqTaUY7TnEMhGt/3URTgA9dpMCtZX6wn/ceA7Gwlmue/sOLynf0OTNLygHPvjiQECQYkEi3LTtg==
+  dependencies:
+    execa "^5.0.0"
+    npm-run-path "^4.0.1"
+
 "@snowpack/plugin-webpack@^2.3.1":
   version "2.3.1"
   resolved "https://registry.yarnpkg.com/@snowpack/plugin-webpack/-/plugin-webpack-2.3.1.tgz#f32c5a11c0a5628414b7802c685fab2fda7687b9"
@@ -922,6 +930,11 @@
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/@tootallnate/once/-/once-1.1.2.tgz#ccb91445360179a04e7fe6aff78c00ffc1eeaf82"
   integrity sha512-RbzJvlNzmRq5c3O09UipeuXno4tA1FE6ikOjxZK0tuxVv3412l64l5t1W5pj4+rJq9vpkm/kwiR07aZXnsKPxw==
+
+"@types/canvas-confetti@^1.4.0":
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/@types/canvas-confetti/-/canvas-confetti-1.4.0.tgz#22127a1a9ed9d456e626d6e2b9a4d3b0a240e18b"
+  integrity sha512-Neq4mvVecrHmTdyo98EY5bnKCjkZGQ6Ma7VyOrxIcMHEZPmt4kfquccqfBMrpNrdryMHgk3oGQi7XtpZacltnw==
 
 "@types/json-schema@^7.0.5", "@types/json-schema@^7.0.6":
   version "7.0.7"
@@ -5909,6 +5922,11 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
+
+typescript@^4.2.4:
+  version "4.2.4"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.2.4.tgz#8610b59747de028fda898a8aef0e103f156d0961"
+  integrity sha512-V+evlYHZnQkaz8TRBuxTA92yZBPotr5H+WhQ7bD3hZUndx5tGOa1fuCgeSjxAzM1RiN5IzvadIXTVefuuwZCRg==
 
 uglify-js@^3.5.1:
   version "3.13.4"
